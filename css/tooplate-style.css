@@ -102,6 +102,9 @@ b, strong {
   background: #ffc200;
   color: #ffffff !important;
 }
+.custom-btn.view-project-btn {
+  margin-top: -220px;
+}
 
 .animated {
   position: relative;
@@ -531,6 +534,11 @@ b, strong {
   .custom-btn {
     display: block;
     margin: 10px 0;
+  }
+
+  .custom-btn.view-project-btn {
+    margin-top: 0 !important;
+    display: inline-block;
   }
 
   .owl-theme .owl-nav {
