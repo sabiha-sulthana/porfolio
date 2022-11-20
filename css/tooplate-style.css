@@ -141,6 +141,10 @@ b, strong {
   animation-delay: 4s;
 }
 
+.about-image img {
+  border-radius: 5px;
+}
+
 @keyframes BottomTotop {
   0% {
     opacity: 0;
