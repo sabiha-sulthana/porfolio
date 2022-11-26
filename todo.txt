@@ -1,6 +1,10 @@
 * get the skills bar from below example
 https://bootstrapmade.com/demo/Personal/
 
+* testimonials
+
+* form
 
 just for reference
 https://joannacappuccilli.com/
+
