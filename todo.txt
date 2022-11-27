@@ -3,7 +3,11 @@ https://bootstrapmade.com/demo/Personal/
 
 * testimonials
 
-* form
+done - form
+
+* og image 
+
+* og title
 
 just for reference
 https://joannacappuccilli.com/
