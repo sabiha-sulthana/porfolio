@@ -314,9 +314,12 @@ b, strong {
   background: #0d0c15;
   color: #ffffff;
 }
+.dark-mode small {
+  color: #ffffff !important;
+}
 .dark-mode .feature-card .uil,
 .dark-mode .navbar-light .navbar-brand,
-.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6,
+.dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6, .dark-mode p,
 .dark-mode .color-mode {
   color: #ffffff;
 }
@@ -681,3 +684,31 @@ b, strong {
 
 
 /* social-menu */
+
+
+.skills .progress {
+  height: 60px;
+  display: block;
+  background: none;
+  border-radius: 0;
+  font-size: 1rem;
+}
+
+.skills .progress .skill {
+  padding: 10px 0;
+  margin: 0;
+  display: block;
+}
+
+.skills .progress .skill .val { float: right; }
+
+.skills .progress-bar-wrap {
+  background: rgba(44, 37, 37, 0.2);
+}
+
+.skills .progress-bar {
+  width: 1px;
+  height: 10px;
+  transition: 0.9s;
+  background-color: #474559;
+}
