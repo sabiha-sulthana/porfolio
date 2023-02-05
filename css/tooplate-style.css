@@ -317,7 +317,7 @@ b, strong {
 .dark-mode small {
   color: #ffffff !important;
 }
-.dark-mode .feature-card .uil,
+.dark-mode .feature-card .uil, .dark-mode .skills .skill,
 .dark-mode .navbar-light .navbar-brand,
 .dark-mode h1, .dark-mode h2, .dark-mode h3, .dark-mode h4, .dark-mode h5, .dark-mode h6, .dark-mode p,
 .dark-mode .color-mode {
@@ -328,6 +328,11 @@ b, strong {
 .dark-mode .owl-carousel button.owl-dot {
   color: #ffffff;
 }
+
+.dark-mode .skills .progress-bar-wrap {
+  background-color: gray;
+}
+.dark-mode .skills .progress-bar { background-color: white; }
 
 .timeline-wrapper {
   position: relative;
